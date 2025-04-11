@@ -5,7 +5,7 @@ Esse é um portifólio fictício no qual fui criando desde o zero com base em ou
 - Cria um portifolio ultilizando estilização com CSS + HTML
 - Acrescentando detalhes e caracteristicas chamativa
 
--**🔨Ferramentas:
+-**🔨Ferramentas:**
 - HtmL
 - CSS
 - Figma
